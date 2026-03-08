@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
 
-df = pd.read_csv('/home/tristeza/Documents/trabalho mae/projetoPessoal/dataScience_desafio/microDesafio_-_dueloDeTabelas-/src/microDesafio/planilhaCopa.csv')
+df = pd.read_csv('planilhaCopa.csv')
 
 df["total_gols"] = 0
 for i in range(len(df['id_partida'])):
