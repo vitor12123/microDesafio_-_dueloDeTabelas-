@@ -13,7 +13,7 @@ id_partida,tipo_da_partida,numero_gols_Brasil,numero_gols_inimigo,time_inimigo
 11,eliminatorias,0,0,colombia
 12,eliminatorias,4,1,uruguai
 13,eliminatorias,1,0,colombia
-14,eliminatorias,0,0,argentina
+14,eliminatorias,1,1,argentina
 15,eliminatorias,1,1,equador
 16,eliminatorias,4,0,paraguai
 17,eliminatorias,4,0,bolivia
